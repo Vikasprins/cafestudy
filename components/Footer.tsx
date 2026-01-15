@@ -20,16 +20,16 @@ const Footer = () => {
       { label: "Contact", href: "/contact" },
     ],
     resources: [
-      { label: "Privacy Policy", href: "#" },
-      { label: "Terms of Service", href: "#" },
-      { label: "Cookie Policy", href: "#" },
+      { label: "Privacy Policy", href: "#/" },
+      { label: "Terms of Service", href: "#//" },
+      { label: "Cookie Policy", href: "#///" },
     ],
     social: [
-      { icon: Facebook, href: "#", label: "Facebook" },
-      { icon: Twitter, href: "#", label: "Twitter" },
-      { icon: Instagram, href: "#", label: "Instagram" },
-      { icon: Linkedin, href: "#", label: "LinkedIn" },
-      { icon: Github, href: "#", label: "Github" },
+      { icon: Facebook, href: "https://www.facebook.com", label: "Facebook" },
+      { icon: Twitter, href: "https://www.instagram.com/", label: "Twitter" },
+      { icon: Instagram, href: "https://www.instagram.com/", label: "Instagram" },
+      { icon: Linkedin, href: "https://www.linkedin.com/", label: "LinkedIn" },
+      { icon: Github, href: "https://www.linkedin.com/", label: "Github" },
     ],
   };
 
@@ -39,7 +39,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Brand Section */}
           <div className="space-y-4">
-            <h3 className="text-2xl font-bold gradient-text">ModernBlog</h3>
+            <h3 className="text-2xl font-bold gradient-text">CafeStudy</h3>
             <p className="text-gray-600 text-sm">
               Your source for quality content on technology, design, and
               lifestyle.
@@ -50,7 +50,7 @@ const Footer = () => {
                 href="mailto:hello@modernblog.com"
                 className="text-sm text-gray-600 hover:text-primary-600 transition-colors"
               >
-                hello@modernblog.com
+                hello@cafestudy.com
               </a>
             </div>
           </div>
@@ -109,7 +109,7 @@ const Footer = () => {
 
         {/* Bottom Bar */}
         <div className="border-t mt-8 pt-8 text-center text-sm text-gray-600">
-          <p>© {currentYear} ModernBlog. All rights reserved.</p>
+          <p>© {currentYear} CafeStudy. All rights reserved.</p>
         </div>
       </div>
     </footer>

@@ -38,7 +38,7 @@ const Header = () => {
               animate={{ opacity: 1, x: 0 }}
               className="text-2xl font-bold gradient-text"
             >
-              ModernBlog
+              CafeStudy
             </motion.div>
           </Link>
 

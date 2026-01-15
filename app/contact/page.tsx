@@ -39,19 +39,19 @@ export default function ContactPage() {
     {
       icon: Mail,
       title: "Email",
-      content: "hello@modernblog.com",
-      link: "mailto:hello@modernblog.com",
+      content: "hello@cafestudy.com",
+      link: "mailto:hello@cafestudy.com",
     },
     {
       icon: Phone,
       title: "Phone",
-      content: "+1 (555) 123-4567",
-      link: "tel:+15551234567",
+      content: "9999999999",
+      link: "tel:+919999999999",
     },
     {
       icon: MapPin,
       title: "Location",
-      content: "San Francisco, CA",
+      content: "Hisar, Haryana, India",
       link: "#",
     },
   ];

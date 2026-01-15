@@ -41,7 +41,7 @@ export default function Home() {
             >
               <span className="inline-flex items-center px-4 py-2 bg-white/80 backdrop-blur-sm rounded-full text-primary-600 font-semibold text-sm shadow-lg">
                 <Sparkles className="w-4 h-4 mr-2" />
-                Welcome to ModernBlog
+                Welcome to CafeStudy
               </span>
             </motion.div>
 
@@ -51,8 +51,8 @@ export default function Home() {
               transition={{ duration: 0.6, delay: 0.2 }}
               className="text-5xl md:text-7xl font-bold mb-6 leading-tight"
             >
-              Discover Stories That
-              <span className="gradient-text"> Inspire</span>
+              Exploring Tech, Trends &
+              <span className="gradient-text"> Tomorrow</span>
             </motion.h1>
 
             <motion.p

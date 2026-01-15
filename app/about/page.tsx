@@ -52,7 +52,7 @@ export default function AboutPage() {
             className="text-center text-white max-w-3xl mx-auto"
           >
             <h1 className="text-5xl md:text-6xl font-bold mb-6">
-              About ModernBlog
+              About CafeStudy
             </h1>
             <p className="text-xl md:text-2xl text-white/90">
               We're on a mission to make technology education accessible,
@@ -98,7 +98,7 @@ export default function AboutPage() {
               <h2 className="text-4xl font-bold mb-6">Our Story</h2>
               <div className="space-y-6 text-lg text-gray-700 text-left">
                 <p>
-                  ModernBlog was founded in 2020 with a simple yet powerful
+                  CafeStudy was founded in 2020 with a simple yet powerful
                   vision: to create a platform where developers, designers, and
                   tech enthusiasts could find reliable, high-quality content
                   that helps them grow professionally.
