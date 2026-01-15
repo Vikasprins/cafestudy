@@ -1,4 +1,4 @@
-# ModernBlog - Next.js Blog Website
+# CafeStudy - Next.js Blog Website
 
 A modern, fully responsive blog website built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.
 
