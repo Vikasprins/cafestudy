@@ -221,7 +221,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📧 Support
 
-For support, email hello@modernblog.com or open an issue in the repository.
+For support, email hello@cafestudy.com or open an issue in the repository.
 
 ---
 
